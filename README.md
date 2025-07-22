@@ -7,8 +7,8 @@ Welcome to **Foodie**, a modern and vibrant landing page built using **HTML**, *
 ---
 
 ## 📸 Preview
+<img width="1920" height="10147" alt="screencapture-arunfoodie-netlify-app-2025-07-22-09_38_29" src="https://github.com/user-attachments/assets/b07d7204-8722-4a5d-a52b-1cbb0118625d" />
 
-![Foodie Website Preview](https://github.com/user-attachments/assets/6cc24f14-9feb-4500-a5c4-b8384b5fdbc1)
 
 ---
 
