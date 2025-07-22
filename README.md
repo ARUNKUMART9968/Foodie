@@ -8,7 +8,7 @@ Welcome to **Foodie**, a modern and vibrant landing page built using **HTML**, *
 
 ## 📸 Preview
 
-![Foodie Website Preview](./screenshot.png)
+![Foodie Website Preview](https://github.com/user-attachments/assets/6cc24f14-9feb-4500-a5c4-b8384b5fdbc1)
 
 ---
 
@@ -45,4 +45,3 @@ Welcome to **Foodie**, a modern and vibrant landing page built using **HTML**, *
 ├── images/
 │   └── (all image assets)
 ├── README.md
-└── screenshot.png
